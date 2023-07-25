@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jehumtine
-- 👀 I’m interested in Computer Science and Philosophy
+- 👋 Hi
+- 👀 I’m interested in Computer Science, Mathematics, Western Philosophy, Political Theory, Poetry, Economics and Cybernetics
 - 📫 How to reach me ... jehumtine16@gmail.com
 
 <!---
