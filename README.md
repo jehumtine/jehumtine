@@ -1,5 +1,5 @@
 
-Computer Science, Mathematics, Western Philosophy, Political Theory, Poetry, Economics and Cybernetics... jmtine.ndhlovu@gmail.com
+Computer Science, Mathematics, Western Philosophy, Political Theory, Poetry, Economics and Cybernetics... jmtine.ndhlovu@cs.unza.zm
 
 <!---
 jehumtine/jehumtine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
