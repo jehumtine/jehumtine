@@ -1,7 +1,7 @@
-<h2 align="left">Hey there 👋 I'm Jehu — I build things with code</h2>
+<h2 align="left">Hey there 👋 I'm Jehu  I build things with code</h2>
 
 <p align="left">
-  I'm a passionate developer who enjoys crafting full-stack applications, exploring different programming paradigms, and experimenting with design and 3D tools. Whether it's web, mobile, or backend — as long as it's code.
+  I'm a passionate developer who enjoys crafting full-stack applications, exploring different programming paradigms, and experimenting with design and 3D tools. Whether it's web, mobile, or backend as long as it's code.
 </p>
 
 ###
