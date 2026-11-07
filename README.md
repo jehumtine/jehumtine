@@ -1,1 +1,2 @@
-dedicated.
+dedicated. 
+heart and desire.
